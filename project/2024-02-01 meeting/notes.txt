@@ -1,0 +1,21 @@
+3 golden rules:
+1- systematic and evidence based process
+2- you are not your user
+3- users are goal oriented
+
+collect data for 1-2 minutes
+
+questions to ask ourselves during development:
+can it tell which hand holding in
+what happens in left hand
+what happens in right hand
+
+must target phone
+api wide 
+repo public? TBD
+how many users? 
+meet prof A at Tech square
+
+icon:
+biotech
+directions walk

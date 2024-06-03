@@ -1,0 +1,101 @@
+ideas:
+app for some people to coordinate using reservations on a map to pick out their spots
+TST app?
+apply ML to large datasets ofr charities
+device interface via Bluetooth or USB?
+
+
+unitedwayatlanta.org
+operationpeace.org
+github.com/hrushim/LifeNet
+	ideas:
+	LifeNetWin
+	LifeNetMac
+
+github.com/C4G/V2V
+
+BLIS: Basic Laboratory Information System
+BSIS: Blood Safety Information System
+GHSS: Global Health Systems Solutions
+ICTD: Information and communication technologies and development
+LIMS: Laboratory Information Management System
+MAC: Medium access control
+P-CCAS: Patient-Centered Continuous Access System
+PEPFAR: President's Emergency Plan For AIDS Relief
+SBFA: Safe Blood For Africa
+SES: SocioEconomic Status
+TTI: Transfusion Transmitted Infection
+UCD: User centered design
+V2V: Vein to Vein
+ZNBTS: Zambian National Blood Transfusion Service
+
+What can I do to make the world / humanity better?
+What would make the world / humanity better?
+
+L10:
+Early routing protocols:
+DSDV, DSR, AODV, ZRP, TORA, OLSR
+
+Refined implementations:
+- RoofNet: ETX metric, SrcRR, ExOR routing protocols (MIT)
+- Multiradio multihop routing (MSR)
+- TDMA-based MAC (IITB)
+
+L13: some gaps and unclarities, and mispronounced Tagalog, but interesting idea about what can be done to help with political unrest on facebook and twitter - maybe programmed asking questions from Street epistimological root: "are you sure about that? what would convince you otherwise? would you say your speech is hateful and divisive? do you know any other languages?"
+
+Chidanand Rajesh Khode - ckhode3@gatech.edu 
+"Cid"
+lives in NJ, also taking Intro to Cognitive Science
+
+Diya Prodipto Mitra - diya.mitra@gatech.edu 
+Madison Wisconsin
+got undergrad in Atlanta at GT
+
+met on 1-28 at 7pm ET
+future meetings on Thursdays at 7pm
+
+Matthew will be the team lead, works at Northrop (?)
+
+CS6150-DUCSS
+Computing for Good - Project: P3. DUCSS (Diabetes Ubiquitous Computational Sensing System) 
+Objective:
+Build an android app (in the future, this feature will be added to an existing android app), which can measure/collect Walking GAIT and perform analysis on that data to classify what kind of problem a person has.
+
+Mentors: 
+1- Professor Rosa Arriaga 
+	arriaga@cc.gatech.edu
+2- Vidhi Talera 
+
+Students:
+1- Matthew Days 
+2- Chidanand Rajesh Khode 
+3- Diya Prodipto Mitra 
+4- David Strube 
+
+ckhode3
+dmitra31
+mdays6
+
+https://sites.google.com/view/riarriaga/tech-for-diabetes-management
+
+Research Goal: https://gatech.instructure.com/courses/373718/files?preview=47938727
+
+Goals for Spring 2024 include:
+
+Walking data collection and visualization through an android app. 
+
+Add this feature to the existing Diabetic Ulcer Computational Sensing System. 
+
+optimize inserts
+generate apk
+
+export data:
+accelerometer xyz
+gyroscope xyz
+angular velocity
+timestamp
+
+
+
+
+

@@ -1,0 +1,10 @@
+https://developer.android.com/develop/sensors-and-location/sensors/sensors_motion#java
+https://stackoverflow.com/questions/4993993/how-to-detect-walking-with-android-accelerometer
+https://developer.android.com/develop/sensors-and-location/location/transitions
+https://blog.mindorks.com/activity-recognition-in-android-still-walking-running-driving-and-much-more/
+https://www.geeksforgeeks.org/activity-recognition-in-android/
+
+https://www.flaticon.com/free-icons/duck
+
+https://www.freepik.com/search?format=search&last_filter=query&last_value=ducks&query=ducks&type=icon
+
